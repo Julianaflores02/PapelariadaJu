@@ -6,7 +6,7 @@ HTML & CSS
 
 ´´codesandbox´´
 ### Link do projeto 👇
-https://codesandbox.io/s/papelaria-da-ju-lj4gcx?file=/style.css
+https://lj4gcx.csb.app/
 
 img do projeto
 ![Papelariadaju](https://github.com/Julianaflores02/PapelariadaJu/assets/146494710/804938a2-b9eb-48ac-a4f8-47c3478c5130)

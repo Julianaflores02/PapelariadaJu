@@ -4,7 +4,7 @@ Site da Papelaria da Ju com varios materiais baratos e acessiveis.
 ## Tecnologias
 HTML & CSS
 
-´´codesandbox´´
+``codesandbox``
 ### Link do projeto 👇
 https://lj4gcx.csb.app/
 
